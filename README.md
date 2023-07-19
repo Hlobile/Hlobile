@@ -14,8 +14,8 @@
 <img src="https://komarev.com/ghpvc/?username=Hlobile&style=flat-square&color=blue" alt=""/>
   <h1>
   Hello World :)
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  <img src="https://media.giphy.com/media/W0RPj8pyB2xvTnqUT0/giphy.gif" width="10px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>
+  <img src="https://media.giphy.com/media/W0RPj8pyB2xvTnqUT0/giphy.gif" width="30px"/>
     
 </h1>
 </div>
