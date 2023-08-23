@@ -4,8 +4,8 @@
   <a href="https://linkedin.com/in/HlobileShongwe/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/hlobii_s/">
-    <img src="https://img.shields.io/badge/instagram-red?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
+  <a href="https://hlobile-shongwe.medium.com/">
+    <img src="https://img.shields.io/badge/medium-blue?logo=medium&logoColor=white&style=for-the-badge" alt="Medium Badge"/>
   </a>
   <a href="https://www.credly.com/users/hlobile-shongwe">
     <img src="https://img.shields.io/badge/credly-blue?logo=credly&logoColor=white&style=for-the-badge" alt="Credly Badge"/>
@@ -17,13 +17,11 @@
 </h1>
 </div>
 
----
-
 ### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Swaziland.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Eswatini (Swaziland).
 - :telescope: I’m working as a Software Developer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring Content Writing.
 
 - :zap: In my free time, I watch the cinematic universe and write medium articles.
 
