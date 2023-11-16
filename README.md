@@ -7,9 +7,6 @@
   <a href="https://hlobile-shongwe.medium.com/">
     <img src="https://img.shields.io/badge/medium-blue?logo=medium&logoColor=white&style=for-the-badge" alt="Medium Badge"/>
   </a>
-  <a href="https://www.credly.com/users/hlobile-shongwe">
-    <img src="https://img.shields.io/badge/credly-blue?logo=credly&logoColor=white&style=for-the-badge" alt="Credly Badge"/>
-  </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=Hlobile&style=flat-square&color=blue" alt=""/>
   <h1>
