@@ -18,9 +18,10 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Eswatini (Swaziland).
 - :telescope: I’m working as a Software Developer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Content Writing.
+- :seedling: Hyper-focused, strategic, diplomatic, influential, eloquent and a Go-getter.
 
-- :zap: In my free time, I watch the cinematic universe and write medium articles.
+- :zap: In my free time, I read self-helps, take long walks, gain knowledge and practice gratitude.
+- :zap: Currently: exploring leadership, self improvement, finance matters and God.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Hlobile-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/HlobileShongwe/)
 
